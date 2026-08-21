@@ -1,0 +1,14 @@
+# Obsidian internal configuration
+Obsidian/.obsidian/
+Obsidian/000 - Rough
+Obsidian/100 - Tabs
+Obsidian/300 - Resources
+Obsidian Vault
+
+# OS junk
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp 
