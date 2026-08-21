@@ -1,0 +1,1 @@
+21 - created repo and shifted obsidian in cs journey folder and pushed the notes to GitHub
